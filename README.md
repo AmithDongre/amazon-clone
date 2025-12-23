@@ -5,6 +5,7 @@ A beginner-friendly clone of the Amazon website built using only HTML and CSS (n
 - Repository: AmithDongre/amazon-clone
 - Description: A repo for Amazon Clone. I have developed a beginner friendly clone of Amazon website using HTML and CSS (no JS)
 - Languages: HTML (65.1%), CSS (34.9%)
+---
 
 ## Demo
 
@@ -16,8 +17,13 @@ To view the site locally:
    - Or from the command line:
      - macOS / Linux: `open index.html` (or `xdg-open index.html`)
      - Windows: `start index.html`
+---
 
-(If you host the project on GitHub Pages or any static hosting provider, include the live demo URL here.)
+## Live demo
+
+ https://amithdongre.github.io/amazon-clone/
+ 
+---
 
 ## Features
 
@@ -25,6 +31,7 @@ To view the site locally:
 - Clean, semantic HTML structure
 - CSS for layout, grid/flexbox usage, and responsive-like breaks (if included)
 - No JavaScript — intended for learning HTML/CSS fundamentals
+---
 
 ## Built With
 
@@ -32,9 +39,9 @@ To view the site locally:
 - CSS — 34.9%
 
 These percentages reflect the repository composition and emphasize the project's focus on markup and styling.
+---
 
-## Files & Structure (example)
-A typical structure for this project may look like:
+## Files & Structure
 
 - index.html
 - styles.css
@@ -42,7 +49,16 @@ A typical structure for this project may look like:
   - images/
 - README.md
 - ABOUT.md
+---
 
+## Screenshots
+<img width="1920" height="1008" alt="Overall view" src="https://github.com/user-attachments/assets/fcf39d36-43c6-425b-85d3-f2a3d3464e43" />
+<img width="1920" height="1008" alt="Hero Section" src="https://github.com/user-attachments/assets/e214af4d-ca8a-4433-99c6-4e18098486c5" />
+<img width="1920" height="1008" alt="Product grid1" src="https://github.com/user-attachments/assets/1f7241d0-217b-44cc-aaed-7c1df3851ea9" />
+<img width="1920" height="1008" alt="Product grid2" src="https://github.com/user-attachments/assets/9cd448d0-df6e-4d7a-bb2b-c5c598798929" />
+<img width="1920" height="1008" alt="Footer view" src="https://github.com/user-attachments/assets/a6d4437e-b075-42c8-81bd-69dc63097de7" />
+
+---
 
 ## How to Use / Explore
 
@@ -50,6 +66,7 @@ A typical structure for this project may look like:
 - Inspect the HTML to understand semantic structure (header, nav, main, footer, etc.).
 - Inspect CSS to learn layout patterns (flexbox/grid, spacing, responsive rules).
 - Replace sample product images and text with your own to experiment.
+---
 
 ## Customization Ideas
 
@@ -57,6 +74,7 @@ A typical structure for this project may look like:
 - Introduce CSS variables to centralize colors and spacing.
 - Improve accessibility (semantic ARIA attributes, keyboard focus styles, alt text).
 - Add interactivity later using JavaScript (cart, product filters, modal).
+---
 
 ## Contributing
 
@@ -68,15 +86,18 @@ Contributions are welcome! If you'd like to contribute:
 5. Open a Pull Request describing your changes
 
 Please keep changes focused and include clear commit messages.
+---
 
 ## License
 
 This project does not include a license file by default. If you'd like to make it open-source, consider adding an MIT license or another license of your choice. Example:
 - License: MIT (Change or add a LICENSE file as needed)
+---
 
 ## Author
 
 - AmithDongre — https://github.com/AmithDongre
+---
 
 ## Acknowledgements
 

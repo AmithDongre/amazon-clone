@@ -48,7 +48,6 @@ These percentages reflect the repository composition and emphasize the project's
 - /assets
   - images/
 - README.md
-- ABOUT.md
 ---
 
 ## Screenshots

@@ -37,14 +37,12 @@ These percentages reflect the repository composition and emphasize the project's
 A typical structure for this project may look like:
 
 - index.html
-- /css
-  - styles.css
+- styles.css
 - /assets
   - images/
 - README.md
 - ABOUT.md
 
-(Adjust to match your repository actual structure.)
 
 ## How to Use / Explore
 
